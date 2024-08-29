@@ -203,10 +203,10 @@ class _MainTabBarState extends State<MainTabBar> {
                     height: 85,
                     decoration: const BoxDecoration(
                       color: clrPrimary,
-                      image: DecorationImage(
-                        image: AssetImage('assets/icons/bg_home.jpg'),
-                        fit: BoxFit.cover,
-                      ),
+                      // image: DecorationImage(
+                      //   image: AssetImage('assets/icons/bg_home.jpg'),
+                      //   fit: BoxFit.cover,
+                      // ),
                     ),
                   ),
                   Padding(
@@ -399,13 +399,13 @@ Widget perencanaan() {
     Location(
       address: "Top Tamu Yang Sering Mengunjungi",
       color: Colors.white,
-      imagePath: Assets.images.user5.path,
+      imagePath: Assets.images.user2.path,
       colorText: Colors.black,
     ),
     Location(
       address: "Top Tamu Yang Sering Mengunjungi",
       color: Colors.blue,
-      imagePath: Assets.images.user6.path,
+      imagePath: Assets.images.user4.path,
       colorText: Colors.white,
     ),
     Location(

@@ -24,7 +24,7 @@ class _CameraPageState extends State<CameraPage> {
       body: Column(
         children: [
           ListTile(
-            leading: Image.asset('assets/icons/report.png'),
+            leading: Image.asset('assets/icons/help.png'),
             title: const Text("3201135011760004"),
             subtitle: const Text(
               "Skor: 7.8",
@@ -37,7 +37,7 @@ class _CameraPageState extends State<CameraPage> {
             ),
           ),
           ListTile(
-            leading: Image.asset('assets/icons/report.png'),
+            leading: Image.asset('assets/icons/help.png'),
             title: const Text("3201135011760004"),
             subtitle: const Text(
               "Skor: 7.33",
@@ -50,7 +50,7 @@ class _CameraPageState extends State<CameraPage> {
             ),
           ),
           ListTile(
-            leading: Image.asset('assets/icons/report.png'),
+            leading: Image.asset('assets/icons/help.png'),
             title: const Text("3201135011760004"),
             subtitle: const Text(
               "Skor: 7.20",
@@ -63,7 +63,7 @@ class _CameraPageState extends State<CameraPage> {
             ),
           ),
           ListTile(
-            leading: Image.asset('assets/icons/report.png'),
+            leading: Image.asset('assets/icons/help.png'),
             title: const Text("3201135011760004"),
             subtitle: const Text(
               "Skor: 6.81",

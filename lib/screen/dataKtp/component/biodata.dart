@@ -61,7 +61,7 @@ class _BiodataPageState extends State<BiodataPage> {
                           height: 105,
                           decoration: BoxDecoration(
                             image: DecorationImage(
-                                image: AssetImage(Assets.images.user3.path),
+                                image: AssetImage(Assets.images.user2.path),
                                 fit: BoxFit.fill),
                             borderRadius: BorderRadius.circular(10),
                             shape: BoxShape.rectangle,
